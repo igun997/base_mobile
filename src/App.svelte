@@ -26,8 +26,6 @@
 				<span class="link-text">Notification</span>
 			</a>
 		</li>
-
-
 	</ul>
 </nav>
 <main>
